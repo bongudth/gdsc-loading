@@ -121,7 +121,7 @@
     transform: scale(0);
     background-color: red;
   }
-  35%, 65% {
+  36%, 64% {
     transform: scale(0);
     background-color: yellow;
   }
@@ -284,7 +284,7 @@
     opacity: 1;
     transform: scale(0);
   }
-  40%, 60% {
+  36%, 64% {
     transform: scale(1);
     width: 200px;
     transform: rotate(-30deg);
